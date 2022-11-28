@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+ul,a,ol{
+    list-style-type: none !important;
+    text-decoration: none !important; 
+}
+a{
+    color: inherit;
+}
+nav li{
+    cursor: pointer;
+}
